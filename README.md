@@ -17,11 +17,13 @@ Everything I've done wrong when submitting or resubmitting a manuscript in a con
 - [ ] Are your references in the right format? Do you have in-text references not in your References block? Do you have preprints that are now published? Are species names in italics? 
 - [ ] Do you have duplicated references? (You can have Person 2016a and Person 2016b, but they're just two slightly differently spelled entries in your library)
 - [ ] Are species names in your text/figures/tables in italics?
-- [ ] Is your coloring scheme consistent across figures, where applicable?
+- [ ] Is your coloring scheme consistent across figures, where applicable? Did you take colourblindness into account?
 - [ ] Are the Supplementary Tables pretty enough, numbers correctly formatted, table headers detailed enough?
 - [ ] In the acknowledgments, are all grants acknowledged with correct IDs? Are students' scholarships acknowledged? Are your institutions (HPC!) acknowledged?
 - [ ] Have you run the spellchecker manually one last time?
 - [ ] Have you uploaded all files the text references, including the cover letter?
+- [ ] Have you uploaded sequencing data and associated metadata to repositories? Has the embargo been lifted?
+- [ ] Have you archived the associated code on Zenodo and assigned a DOI?
 - [ ] Have you clicked the submit button?
 
 ## Resubmission
